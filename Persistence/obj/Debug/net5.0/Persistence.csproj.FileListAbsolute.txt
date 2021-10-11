@@ -13,18 +13,3 @@ C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\P
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb

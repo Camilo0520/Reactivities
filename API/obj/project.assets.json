@@ -1309,32 +1309,34 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\cvillavi\\.nuget\\packages\\": {}
+    "C:\\Users\\4dagi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TdeA\\Semestre5\\Construcción de Sofware iv\\Proyecto\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\TdeA\\Semestre5\\Construcción de Sofware iv\\Proyecto\\Reactivities\\API\\API.csproj",
-      "packagesPath": "D:\\Users\\cvillavi\\.nuget\\packages\\",
-      "outputPath": "D:\\TdeA\\Semestre5\\Construcción de Sofware iv\\Proyecto\\Reactivities\\API\\obj\\",
+      "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\4dagi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\Users\\cvillavi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\4dagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\TdeA\\Semestre5\\Construcción de Sofware iv\\Proyecto\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "D:\\TdeA\\Semestre5\\Construcción de Sofware iv\\Proyecto\\Reactivities\\Application\\Application.csproj"
+            "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Application\\Application.csproj"
             }
           }
         }

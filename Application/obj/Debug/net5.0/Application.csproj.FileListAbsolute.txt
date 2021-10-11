@@ -15,20 +15,3 @@ C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\A
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Application\obj\Debug\net5.0\Application.dll
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Application\obj\Debug\net5.0\Application.pdb
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\bin\Debug\net5.0\Application.deps.json
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\bin\Debug\net5.0\Application.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\bin\Debug\net5.0\ref\Application.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\bin\Debug\net5.0\Application.pdb
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\bin\Debug\net5.0\Domain.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\bin\Debug\net5.0\Persistence.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\bin\Debug\net5.0\Persistence.pdb
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\bin\Debug\net5.0\Domain.pdb
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\Application.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
-D:\TdeA\Semestre5\Construcción de Sofware iv\Proyecto\Reactivities\Application\obj\Debug\net5.0\Application.pdb
